@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="60px" src="https://dadosabertos.aneel.gov.br/uploads/group/2022-08-23-193719.950953MARCAS-ANEEL-022.png">
+</p>
+
 # Projeto Portifólio Cientista de Dados
 
 ## Relação de empreendimentos de Geração Distribuída Fotovoltaica
@@ -9,4 +13,5 @@ O presente documento trata de dados referentes aos micro e minigeradores distrib
 Os dados são expressos em quantidades e potência instalada em kW (quilowatt). A quantidade corresponde ao número de micro ou minigeradores distribuídos instalados no período especificado. A potência instalada é definida pelo somatório da potência elétrica ativa nominal das unidades geradoras.
 
 A unidade de energia elétrica atualmente utilizada pela ANEEL é o kWh (quilowatt-hora) ou o MWh (megawatt-hora).
+
 
