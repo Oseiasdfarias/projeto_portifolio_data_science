@@ -6,7 +6,7 @@
 
 ## Relação de empreendimentos de Geração Distribuída Fotovoltaica
 
-Essa base de dados é disponibilizada pela Aneel (Agência Nacional de Energia Elétrica).
+Base de dados disponibilizada pela Aneel (Agência Nacional de Energia Elétrica) com a relação de empreendimentos de Geração Distribuída Fotovoltaica.
 
 
 ### Descrição da base de dados
