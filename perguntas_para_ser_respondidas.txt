@@ -1,0 +1,5 @@
++ Quantidade de cadastro de empreendimento por ano?
+  - plotar gráficos para observar a tendência de crescimento do setor
+  - gráficos para comparar os modelos de módulos e inversores mais usados
+  - 
+
