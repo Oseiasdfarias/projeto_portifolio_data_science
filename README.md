@@ -20,15 +20,21 @@ Os dados são expressos em quantidades e potência instalada em kW (quilowatt). 
 A unidade de energia elétrica atualmente utilizada pela ANEEL é o kWh (quilowatt-hora) ou o MWh (megawatt-hora).
 
 <p align="center">
-  <img height="60%" src="./utils/Quantidade de novos empreendimentos por ano.png">
+  <img height="60%" src="./utils/banner.png">
 </p>
 
-
 <p align="center">
-  <img height="60%" src="./utils/Potência instalada de novos empreendimentos fotovoltáicos por ano.png">
+  <img height="60%" src="./utils/banner2.png">
 </p>
 
+<p align="center">
+  <img height="60%" src="./utils/banner3.png">
+</p>
 
 <p align="center">
-  <img height="60%" src="./utils/Média de potência instalada de novos empreendimentos fotovoltáicos por ano.png">
+  <img height="60%" src="./utils/banner4.png">
+</p>
+
+<p align="center">
+  <img height="60%" src="./utils/banner5.png">
 </p>
